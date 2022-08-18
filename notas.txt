@@ -1,0 +1,7 @@
+Rafael: 10
+Felipe: 5
+Susana:10
+Renan: 7.5
+Clarice: 10
+Breno: 5
+Santino: 8
